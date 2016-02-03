@@ -32,6 +32,7 @@
     <string name="bPoint">.</string>
     <string name="MR">MR</string>
     <string name="save">Save</string>
+    <string name="author">By Ne3X7</string>
     <string-array name="items">
         <item>Save last result</item>
         <item>Show numpad</item>
