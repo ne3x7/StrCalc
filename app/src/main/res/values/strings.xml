@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">StrCalc</string>
+    <string name="prompt">Enter expression:</string>
+    <string name="hint">Your expression</string>
+    <string name="button">Calculate</string>
+    <string name="res">Result: </string>
+    <string name="noinput">Empty input!</string>
+    <string name="wrongexpr">Wrong expression!</string>
+    <string name="reset">Reset</string>
+    <string name="quit">Quit</string>
+    <string name="use">Use result as input</string>
+    <string name="settings">Settings</string>
+    <string name="nOne">1</string>
+    <string name="bTwo">2</string>
+    <string name="bThree">3</string>
+    <string name="bFour">4</string>
+    <string name="bFive">5</string>
+    <string name="bSix">6</string>
+    <string name="bSeven">7</string>
+    <string name="bEight">8</string>
+    <string name="bNine">9</string>
+    <string name="bTogglePm">±</string>
+    <string name="bZero">0</string>
+    <string name="bClear">C</string>
+    <string name="bPlus">+</string>
+    <string name="bMinus">-</string>
+    <string name="bMul">*</string>
+    <string name="bDiv">/</string>
+    <string name="bLeftPrt">(</string>
+    <string name="bRightPrt">)</string>
+    <string name="bPwr">^</string>
+    <string name="bPoint">.</string>
+    <string name="MR">MR</string>
+    <string name="save">Save</string>
+    <string-array name="items">
+        <item>Save last result</item>
+        <item>Show numpad</item>
+        <item>Show use button</item>
+        <item>Show reset button</item>
+    </string-array>
+</resources>
